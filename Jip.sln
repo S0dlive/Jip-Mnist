@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jip.Ex", "Jip.Ex\Jip.Ex.csproj", "{EF3721DD-AA5A-444C-81A1-46EEA03F97FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jip.Ne", "Jip.Ne\Jip.Ne.csproj", "{AFED11B6-9A6C-49B5-B504-8652BEFD5620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF3721DD-AA5A-444C-81A1-46EEA03F97FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3721DD-AA5A-444C-81A1-46EEA03F97FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3721DD-AA5A-444C-81A1-46EEA03F97FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3721DD-AA5A-444C-81A1-46EEA03F97FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFED11B6-9A6C-49B5-B504-8652BEFD5620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFED11B6-9A6C-49B5-B504-8652BEFD5620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFED11B6-9A6C-49B5-B504-8652BEFD5620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFED11B6-9A6C-49B5-B504-8652BEFD5620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
