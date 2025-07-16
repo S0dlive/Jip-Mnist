@@ -4,7 +4,7 @@ public static class Program
 {
     static void Main()
     {
-        string basePath = @"C:\Users\bapti\Desktop\MNIST";
+        string basePath = @"folder where is stock the dataset";
         
         string imagePath = Path.Combine(basePath, "train-images.idx3-ubyte");
 
